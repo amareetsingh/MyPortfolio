@@ -801,9 +801,7 @@ h3.my-profession{
 }
 
 @media(max-width:767px){
-    .main-container{
-        width: 100%;
-    }
+    
     .contact .contact-form .col-6,
     .contact .contact-info-item,
     .portfolio .portfolio-item,
