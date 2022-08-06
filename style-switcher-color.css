@@ -80,3 +80,11 @@
 .style-switcher .color4{
     background: #f021b2;
 }
+
+@media(max-width:767px){
+    .style-switcher{
+        /* position:absolute; */
+        right: 8px;
+    }
+   
+}
