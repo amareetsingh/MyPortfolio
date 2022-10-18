@@ -19,6 +19,7 @@ body{
     line-height: 1.5;
     font-size: 16px;
     font-family: "poppins" sans-serif;
+    background: black;
 }
 
 *{
@@ -69,8 +70,8 @@ ul{
     font-size: 16px;
     font-weight: 500;
     padding:12px 35px;
-/*     color: white; */
-     color:black;
+    color: white;
+   
     border-radius:40px;
     display:inline-block;
     border: none;
